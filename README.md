@@ -74,3 +74,5 @@ pip install -r requirements.txt
    - 选择输出文件夹（默认为输入文件夹下的cropped_faces子文件夹）
    - 如果模型文件未自动检测到，点击"选择模型文件"手动选择
    - 点击"开始处理
+  
+![WeChat Screenshot_20250402002045](https://github.com/user-attachments/assets/b32e14e6-2ac8-493c-a4da-a6d75588c0e6)
