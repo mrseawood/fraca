@@ -51,7 +51,7 @@ pip install -r requirements.txt
   ```
 
 - 或者，您可以下载预编译的dlib wheel文件：
-  https://github.com/z-mahmud22/Dlib_Windows_Python/releases
+  [https://github.com/z-mahmud22/Dlib_Windows_Python/releases](https://github.com/Murtaza-Saeed/Dlib-Precompiled-Wheels-for-Python-on-Windows-x64-Easy-Installation)
 
 ### 2. 下载人脸关键点模型文件
 
